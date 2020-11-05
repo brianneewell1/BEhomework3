@@ -2,6 +2,14 @@
 
 Random password generator capable of creating a password between 8-128 characters using specifications that the user selects. 
 
+# Live Site
+https://brianneewell1.github.io/Random-Password-Generator/
+
+# Technologies Used
+JavaScript
+CSS
+HTML
+
 # User Story
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
